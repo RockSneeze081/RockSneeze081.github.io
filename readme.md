@@ -29,22 +29,9 @@ Este portfolio está construido con:
 
 ---
 
-## 📁 Estructura
-
-/
-├── index.html # Página principal del portfolio
-├── Photos/ # Carpeta que contiene todas las imágenes
-├── src/
-│ └── avatar.png # Imagen de avatar del autor
-├── fotos.json # Listado automático de imágenes (si se usa JS dinámico)
-└── README.md # Este archivo
-
----
-
 ## 👤 Autor
 
-**nicorebo-18**  
-[GitHub](https://github.com/nicorebo-18) · [LinkedIn](https://www.linkedin.com/in/nicorebo18)
+**nicorebo-18** [GitHub](https://github.com/nicorebo-18) · [LinkedIn](https://www.linkedin.com/in/nicorebo18)
 
 ---
 
