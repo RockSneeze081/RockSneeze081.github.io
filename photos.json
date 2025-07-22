@@ -1,5 +1,45 @@
 ﻿[
     {
+        "path":  "Photos/Atardecer0001.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/Balcon.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/BCN080725-1-2.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/BCN080725-1.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/BCN080725-2.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/BCN080725-3.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/BCN080725-4.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/BCN080725-5.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/BCN080725-6.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/BCN080725-7.jpg",
+        "description":  "Foto"
+    },
+    {
         "path":  "Photos/Bokeh.jpg",
         "description":  "Foto"
     },
@@ -76,6 +116,166 @@
         "description":  "Foto"
     },
     {
+        "path":  "Photos/DSC01027.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01033.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01037.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01044.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01047.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01050.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01054.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01058.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01061.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01064.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01071.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01072.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01073.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01075.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01077.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01078.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01080.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01081.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01082.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01095.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01098.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01104.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01106.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01107.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01111.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01114.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01137.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01144.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01147.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01148.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01149.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01149.png",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01151.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01151.png",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01163.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01163.png",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01164.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01164.png",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01166.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC01166.png",
+        "description":  "Foto"
+    },
+    {
         "path":  "Photos/DSC01469.jpg",
         "description":  "Foto"
     },
@@ -120,7 +320,35 @@
         "description":  "Foto"
     },
     {
+        "path":  "Photos/DSC_0041.jpg",
+        "description":  "Foto"
+    },
+    {
         "path":  "Photos/DSC_0065.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/DSC_0150.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/Macetas.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/MamaBarcelona3.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/PalomaEnFarola.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/Peque01.jpg",
+        "description":  "Foto"
+    },
+    {
+        "path":  "Photos/RetratoMiguel.jpg",
         "description":  "Foto"
     }
 ]
