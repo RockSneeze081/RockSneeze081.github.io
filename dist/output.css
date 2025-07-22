@@ -25,6 +25,32 @@
   --tw-content: '';
 }
 
+ /* Estilo Masonry sin JS */
+    .masonry {
+      column-count: 3;
+      column-gap: 1rem;
+    }
+
+    @media (max-width: 1024px) {
+      .masonry {
+        column-count: 2;
+      }
+    }
+
+    @media (max-width: 640px) {
+      .masonry {
+        column-count: 1;
+      }
+    }
+
+    .masonry img {
+      width: 100%;
+      height: auto;
+      display: block;
+      margin-bottom: 1rem;
+      break-inside: avoid;
+    }
+
 /*
 1. Use a consistent sensible line-height in all browsers.
 2. Prevent adjustments of font size after orientation changes in iOS.
