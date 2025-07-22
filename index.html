@@ -100,14 +100,24 @@
   <!-- Content -->
   <div class="container mx-auto">
     <h1 class="text-4xl pt-10 pb-8 font-bold">PORTFOLIO</h1>
-    <div class="masonry">
-      <!-- Aquí deberías insertar tus imágenes -->
-      <img src="Photos/Bokeh.jpg" alt="Foto 1">
-      <img src="Photos/Carlota.jpg" alt="Foto 2">
-      <img src="Photos/DSC00203.jpg" alt="Foto 3">
-      <img src="Photos/DSC00205.jpg" alt="Foto 4">
-      <img src="Photos/DSC00212.jpg" alt="Foto 5">
-      <!-- Puedes automatizar esto con JS si hay muchas -->
+    <div id="galeria" class="masonry">
+      <script>
+        const fotos = [
+          { path: "Photos/Bokeh.jpg", description: "Foto" },
+          { path: "Photos/Carlota.jpg", description: "Foto" },
+          { path: "Photos/DSC00203.jpg", description: "Foto" },
+          { path: "Photos/DSC00205.jpg", description: "Foto" },
+          { path: "Photos/DSC00212.jpg", description: "Foto" }
+        ];
+
+        const cont = document.getElementById('galeria');
+        fotos.forEach(item => {
+          const img = document.createElement('img');
+          img.src = item.path;
+          img.alt = item.description;
+          cont.appendChild(img);
+        });
+      </script>
     </div>
   </div>
   <!-- Footer -->
